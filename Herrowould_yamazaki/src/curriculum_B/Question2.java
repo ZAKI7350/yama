@@ -54,7 +54,7 @@ public class Question2 {
 
         
         
-        //Q6
+        //Q6　
         int value = 8;
         if (value % 2 == 0) {
             System.out.println("偶数です");
