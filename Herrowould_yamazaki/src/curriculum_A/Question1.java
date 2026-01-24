@@ -5,7 +5,7 @@ public class Question1 {
 	//String hobby = "映画鑑賞";
 
     public static void main(String[] args) {
-        // 各データ型の変数を宣言して初期値を設定
+        // 各データ型の変数を宣言して初期値を設定　
     	String name = "山田 花子";
     	int age = 25;
     	String hobby = "映画鑑賞";
