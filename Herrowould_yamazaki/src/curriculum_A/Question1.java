@@ -47,7 +47,7 @@ public class Question1 {
         System.out.println("変換後の値: " + (num + 10)); // 変換後の値に10を足して表示
        
         String strNum = String.valueOf(num); // numをString型に変換
-        System.out.println("得点: " + strNum + "点"); // 表示
+        System.out.println("得点: " + strNum + "点"); // 表示　
         int a = 10;                             // aに10を代入
         int b = 20;                             // bに20を代入
         boolean result = (a < b) ? true : false; // aがbより小さいかを条件演算子で判定
