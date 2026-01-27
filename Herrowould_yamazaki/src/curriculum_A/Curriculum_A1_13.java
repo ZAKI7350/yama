@@ -29,7 +29,7 @@ public class Curriculum_A1_13 {
 	        
 	        
 	        
-	        // Q3
+	        // Q3 
 	        int sumIntTypes = byteNum + shortNum + intNum + (int) longNum;
 	        System.out.println(sumIntTypes);
 	        int twenty = byteNum + (int) doubleNum;
