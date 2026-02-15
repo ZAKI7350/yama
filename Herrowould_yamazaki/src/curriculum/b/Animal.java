@@ -1,6 +1,6 @@
 package curriculum.b;
 
-public class Question5animal {
+public class Animal {
 	// フィールド
     private String name;   // 動物名
     private double length; // 体長(m)

@@ -1,6 +1,6 @@
 package curriculum.b;
 
-public class greeting {
+public class Greeting {
 	public void sayHello() {
         System.out.println("こんにちは！");
 }
