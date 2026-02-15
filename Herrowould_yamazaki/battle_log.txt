@@ -1,0 +1,41 @@
+=== バトル開始 ===
+za HP:66 AT:15 SP:12
+Daemon HP:85 AT:12 SP:6
+
+先攻: za
+
+za の攻撃！
+Daemon のHP: 70
+
+Daemon の攻撃！
+za のHP: 54
+
+za の攻撃！
+Daemon のHP: 55
+
+Daemon の攻撃！
+za のHP: 42
+
+za の攻撃！
+Daemon のHP: 40
+
+Daemon の攻撃！
+za のHP: 30
+
+za の攻撃！
+Daemon のHP: 25
+
+Daemon の攻撃！
+za のHP: 18
+
+za の攻撃！
+Daemon のHP: 10
+
+Daemon の攻撃！
+za のHP: 6
+
+za の攻撃！
+Daemon のHP: -5
+
+勝者: za
+=== バトル終了 ===
