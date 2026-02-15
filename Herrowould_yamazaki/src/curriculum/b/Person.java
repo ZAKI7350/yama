@@ -1,4 +1,4 @@
-package jikosyoukai;
+package curriculum.b;
 
 	public class Person {
 

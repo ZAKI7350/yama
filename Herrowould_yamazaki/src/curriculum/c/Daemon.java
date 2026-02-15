@@ -1,4 +1,4 @@
-package batoru;
+package curriculum.c;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

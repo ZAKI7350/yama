@@ -1,4 +1,4 @@
-package batoru;
+package curriculum.c;
 import java.util.Random;
 
 public class Player extends Character {

@@ -1,4 +1,4 @@
-package batoru;
+package curriculum.c;
 public class Character {
 
     protected String name;
